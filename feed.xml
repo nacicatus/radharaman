@@ -18,7 +18,10 @@
 	<itunes:name>Saurabh Sikka</itunes:name>
 	<itunes:email>saurabhsikka@icloud.com</itunes:email>
 	</itunes:owner>
-	<itunes:image href="https://nacicatus.github.io/logo.jpg"/>
+	<itunes:image href="https://nacicatus.github.io/logo.png"/>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Hinduism"/>
+	</itunes:category>
 	<itunes:category text="Education">
 		<itunes:category text="Self-Improvement"/>
 	</itunes:category>
