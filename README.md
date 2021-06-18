@@ -1,5 +1,5 @@
 
-[What?](../mp3s/about.md)
+[What?](mp3s/about.md)
 
 ```swift
 // TODO: Podcasting
