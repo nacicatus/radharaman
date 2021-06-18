@@ -27,15 +27,21 @@
 	</itunes:category>
 	<itunes:explicit>yes</itunes:explicit>
 <item>
-<link>https://nacicatus.github.io/</link>
-<itunes:author>Saurabh</itunes:author>
 <title>Welcome to the first Monkey Bath</title>
+<itunes:title>Welcome to the first Monkey Bath</itunes:title>
+<itunes:author>Saurabh Sikka</itunes:author>
 <itunes:subtitle>Where we discuss the origins of religion and deal with some learned behavior patterns</itunes:subtitle>
-<itunes:summary> <![CDATA[ If you enjoyed this video and it has helped you, please share and like it. It really helps to the video be seen by others. I can't tell you how grateful I am... ]]> </itunes:summary>
-<description> <![CDATA[ If you enjoyed this video and it has helped you, please share and like it. It really helps to the video be seen by others. I can't tell you how grateful I am... ]]> </description>
-<enclosure url='https://chtbl.com/track/A8GA4A/dts.podtrac.com/redirect.mp3/thisyearweconquer.github.io/mp3s/Matthew_McConaughey_-_This_Is_Why_Youre_Not_Happy___One_Of_The_Most_Eye_Opening_Speeches.mp3' length='7575621' type='audio/mpeg'/>
-<itunes:duration>546.216</itunes:duration>
-<guid isPermaLink='false'>https://thisyearweconquer.github.io/mp3s/Matthew_McConaughey_-_This_Is_Why_Youre_Not_Happy___One_Of_The_Most_Eye_Opening_Speeches.mp3</guid>
+<itunes:summary> <![CDATA[ We talk about debates in medieval India...]]> </itunes:summary>
+<description> <![CDATA[ ... and explore the balance between work and pleasure]]> </description>
+<enclosure url='https://nacicatus.github.io/mp3s/mb0.mp3' length='35076307' type='audio/mpeg'/>
+<itunes:duration>36.32</itunes:duration>
+<itunes:season>2021</itunes:season>
+<itunes:episode>Episode 0</itunes:episode>
+<itunes:episodeType>Full</itunes:episodeType>
+<guid isPermaLink='false'></guid>
 <pubDate>Sat Jun 12 20:25:27 2021</pubDate>
 <itunes:explicit>yes</itunes:explicit>
 </item>
+
+</channel>
+</rss>
