@@ -1,1 +1,41 @@
-
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>Monkey Bath</title>
+	<link>https://nacicatus.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://nacicatus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+	<copyright>Saurabh Sikka</copyright>
+	<itunes:subtitle>That's What We're Talking About, Man!</itunes:subtitle>
+	<itunes:author>Saurabh Sikka</itunes:author>
+	<itunes:summary>
+	Old public school boys discussing philosophy, spirituality, politics and culture.
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	Digging deep into superficial subjects in the realm of human thought, two old public school boys thrash it out with their limited intelligence.
+	</description>
+	<itunes:owner>
+	<itunes:name>Saurabh Sikka</itunes:name>
+	<itunes:email>saurabhsikka@icloud.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://nacicatus.github.io/logo.jpg"/>
+	<itunes:category text="Education">
+		<itunes:category text="Self-Improvement"/>
+	</itunes:category>
+	<itunes:category text="Health &amp; Fitness">
+		<itunes:category text="Mental Health"/>
+	</itunes:category>
+	<itunes:explicit>yes</itunes:explicit>
+<item>
+<link>https://nacicatus.github.io/</link>
+<itunes:author>Saurabh</itunes:author>
+<title>Welcome to the first Monkey Bath</title>
+<itunes:subtitle>Where we discuss the origins of religion and deal with some learned behavior patterns</itunes:subtitle>
+<itunes:summary> <![CDATA[ If you enjoyed this video and it has helped you, please share and like it. It really helps to the video be seen by others. I can't tell you how grateful I am... ]]> </itunes:summary>
+<description> <![CDATA[ If you enjoyed this video and it has helped you, please share and like it. It really helps to the video be seen by others. I can't tell you how grateful I am... ]]> </description>
+<enclosure url='https://chtbl.com/track/A8GA4A/dts.podtrac.com/redirect.mp3/thisyearweconquer.github.io/mp3s/Matthew_McConaughey_-_This_Is_Why_Youre_Not_Happy___One_Of_The_Most_Eye_Opening_Speeches.mp3' length='7575621' type='audio/mpeg'/>
+<itunes:duration>546.216</itunes:duration>
+<guid isPermaLink='false'>https://thisyearweconquer.github.io/mp3s/Matthew_McConaughey_-_This_Is_Why_Youre_Not_Happy___One_Of_The_Most_Eye_Opening_Speeches.mp3</guid>
+<pubDate>Sat Jun 12 20:25:27 2021</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
