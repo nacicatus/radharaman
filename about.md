@@ -1,3 +1,7 @@
+layout: page
+title: "About!"
+permalink: /https://nacicatus.github.io/about/
+
 # What is Monkey Bath?
 
 You know what it is.
