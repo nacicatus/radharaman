@@ -1,1 +1,15 @@
-theme: jekyll-theme-hacker
+title: Radha Raman Katha
+description: Lectures by Sri Kartik Goswami Maharaj
+author: H.H. Sri Kartik Goswami Maharaj
+email: saurabhsikka@icloud.com
+lang: en-us
+copyright: "&#x2117; &amp; &#xA9; 2022"
+logo: /assets/img/logo.jpg
+url: "https://nacicatus.github.io" 
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
