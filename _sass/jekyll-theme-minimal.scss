@@ -9,12 +9,20 @@ body {
   font-weight:normal;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#222;
+h1, h2 {
+  color:#007;
+  margin:0 0 40px;
+  font: "Mecha";
+  font-style:normal;
+}
+
+h3, h4, h5, h6 {
+  color:#006;
   margin:0 0 20px;
   font: "Noto-Sans-regular";
   font-style:normal;
 }
+
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -26,7 +34,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:42px;
-  color:#63bfff;
+  color:#ed734d;
   font-weight:bold;
 }
 
@@ -42,12 +50,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#63bfff;
+  color:#ed734d;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#ffd110;
+  color:#bb1a2f;
 }
 
 a small {
