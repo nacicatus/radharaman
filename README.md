@@ -1,7 +1,6 @@
 # Podcast Pages
 
-Have your own podcast you want to host? Do it on GitHub!
-Podcast Pages provides a template to host your own podcast using GitHub Pages and [Jekyll](https://jekyllrb.com/).
+Podcast using GitHub Pages and [Jekyll](https://jekyllrb.com/).
 
 ## Getting Started
 
@@ -25,8 +24,4 @@ Podcast Pages provides a template to host your own podcast using GitHub Pages an
 1. Create a new `.md` file containing your podcast details under `./_posts/`
 1. Fill out details in the template provided
 1. Commit and push
-1. ...
-1. Profit
 
-## License
-See the [LICENSE](LICENSE) file.
